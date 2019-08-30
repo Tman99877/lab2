@@ -1,0 +1,59 @@
+
+
+body{
+
+
+background-color: pink;
+
+
+
+
+}
+
+
+p{
+text-align: center;
+color blue;
+background-color:lightsteelblue;
+}
+
+h1{
+text-align: center;
+color red;
+background-color:gray;
+}
+
+h2{
+text-align: center;
+color yellow;
+background-color:lightsteelblue;
+}
+
+h4{
+text-align: center;
+color orange;
+background-color:yellow;
+}
+
+b{
+text-align: center;
+color blue;
+background-color:lightsteelblue;
+}
+ol{
+text-align: center;
+color blue;
+background-color:lightsteelblue;
+}
+
+ul{
+text-align: center;
+color blue;
+background-color:lightsteelblue;
+}
+
+dl{
+text-align: center;
+color blue;
+background-color:lightsteelblue;
+}
