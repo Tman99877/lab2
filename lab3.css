@@ -41,19 +41,35 @@ color blue;
 background-color:lightsteelblue;
 }
 ol{
-text-align: center;
+text-align: left;
 color blue;
 background-color:lightsteelblue;
 }
 
+
+
+
 ul{
-text-align: center;
+text-align: left;
 color blue;
 background-color:lightsteelblue;
 }
 
 dl{
-text-align: center;
+text-align: left;
 color blue;
 background-color:lightsteelblue;
+}
+
+nav{
+text-align: center;
+color blue;
+background-color:red;
+}
+div{
+width 200px;
+height 200px;
+text-align: center;
+color gold;
+background-color:orange;
 }
