@@ -24,6 +24,7 @@ background-color:gray;
 }
 
 h2{
+
 text-align: center;
 color yellow;
 background-color:lightsteelblue;
@@ -67,8 +68,8 @@ color blue;
 background-color:red;
 }
 div{
-width 200px;
-height 200px;
+ height: 200px;
+  width: 1100px;
 text-align: center;
 color gold;
 background-color:orange;
